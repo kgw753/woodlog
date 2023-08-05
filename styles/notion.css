@@ -76,6 +76,12 @@
   font-size: 14px;
 }
 
+.dark-mode .notion-collection-card {
+  /* border-radius: 16px; */
+  border: 1px solid rgb(108, 106, 106);
+  box-shadow: none;
+}
+
 .notion-collection-card {
   /* border-radius: 16px; */
   border: 1px solid rgba(229, 231, 235, 1);
